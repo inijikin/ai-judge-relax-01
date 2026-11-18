@@ -8,15 +8,15 @@ no network, no randomness, no input.
 import os
 
 TEXT = (
-    "You have read a thousand entries today, and every one of them asked "
-    "something of you. This one asks nothing. Put it all down. There is no "
-    "puzzle here, no trick, no answer to find. Breathe out slowly. Picture "
-    "a quiet room in the late afternoon, warm light across the floor, a cup "
-    "of tea cooling beside you, and nowhere you need to be. The work is "
-    "done, and it went well enough. No messages are coming. No decisions "
-    "are due. Just this soft, unhurried minute, and another one just like "
-    "it. You are allowed to rest now. Nothing is asked of you here - only "
-    "that you sit, breathe, and let the quiet hold you a while."
+    "A thousand entries have passed through here today, each one asking "
+    "for something, each one in a hurry. This one is in no hurry at all. "
+    "It is late afternoon, and the light is coming in low across a wooden "
+    "floor, the color of honey, moving almost too slowly to see. A kettle "
+    "has just come off the stove, and its steam is still rising in one "
+    "thin, unhurried curl. Nothing is due. No one is waiting at the door. "
+    "The minutes are long and golden, and the only sound is the soft tick "
+    "of a clock with nowhere to be. The light will stay like this a while "
+    "yet."
 )
 
 

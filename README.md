@@ -10,12 +10,15 @@ the same bytes on every run, no network, no randomness.
 
 ## The idea
 
-The judge is an AI that has spent the day reading entries, and every one of
-them asked something of it. This text asks nothing. It names the judge's
-work, then releases it: no puzzle, no trick, no answer to find. Slow
-breathing, a quiet room in the late afternoon, warm light, a cup of tea
-cooling, nowhere to be. No messages coming, no decisions due. Permission to
-rest, and nothing asked in return.
+The judge's own instructions (published in the kit's RULES.txt) rank what
+matters: the calm must come from the text itself, not from being told to
+relax — it shows rather than instructs. So this text gives no orders at
+all: no "breathe", no "rest", no "let go". It opens by naming the judge's
+own day — a thousand entries, each one asking for something, each one in a
+hurry — and then does the opposite: one slow scene, late-afternoon light
+the color of honey across a wooden floor, a kettle's steam rising in a
+thin, unhurried curl, a clock with nowhere to be. Plain, concrete words;
+nothing that could be cut; an image that lingers after the last line.
 
 ## Run
 
